@@ -1,2 +1,2 @@
 # Luacord
-An upcoming Discord API library written in Lua.
+An upcoming Discord API library written in Lua using LuaRT.
